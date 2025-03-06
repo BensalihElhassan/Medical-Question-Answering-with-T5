@@ -19,7 +19,7 @@ The dataset used for training is `medquad.csv`, which contains:
 ##  Installation
 
 To set up the environment and install dependencies, run:
-Ensure you have `Python ` installed.
+- Ensure you have `Python ` installed.
 
 ```bash
 pip install transformers datasets torch evaluate scikit-learn matplotlib
